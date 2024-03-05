@@ -1,3 +1,6 @@
+//wait for the DOM to finfish loading before running the game
+//Get the button elements and add Event listners to them
+
 function runGame(){
 
 }
@@ -20,5 +23,5 @@ function displaySubstactQuestion(){
 
 }
 function displayMultiplyQuestion(){
-    
+
 }
